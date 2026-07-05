@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+fastapi
+uvicorn
+paho-mqtt
+dash
+plotly
+requests
